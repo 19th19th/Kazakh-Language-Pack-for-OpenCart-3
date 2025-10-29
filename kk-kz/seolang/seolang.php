@@ -1,2 +1,2 @@
 <?php
-$_['entry_seolang_seolang'] = 'SEO LANG';
+$_['entry_seolang_seolang'] = 'SEO ТІЛІ';

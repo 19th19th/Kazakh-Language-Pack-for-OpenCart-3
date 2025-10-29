@@ -1,4 +1,4 @@
 <?php
-$_['entry_seolang_seolang'] = 'SEO LANG';
-$_['text_seolang_viewed_sort'] = 'По дате просмотра &#8595;';
+$_['entry_seolang_seolang'] = 'SEO ТІЛІ';
+$_['text_seolang_viewed_sort'] = 'Көру күндері бойынша &#8595;';
 

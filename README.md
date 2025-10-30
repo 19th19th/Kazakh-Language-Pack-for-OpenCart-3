@@ -2,6 +2,6 @@
 
 Распространяется бесплатно, скачать можно на [github](https://github.com/19th19th/Kazakh-Language-Pack-for-OpenCart-3) или на сайте [liveopencart.ru](https://liveopencart.ru/)
 
-OpenCart 3 және кейбір шаблондар мен модульдер үшін қазақ тіліне аудару. Аударма алғашында автоматты түрде жасалды, кейін мәтіннің басым бөлігі қолмен тексерілді. Түзетулер мен толықтырулар қабылданады.
+OpenCart 3 және кейбір шаблондар мен модульдер үшін қазақ тіліне аудару. Автоматты түрде аударылды, содан кейін көп бөлігі қолмен тексерілді. Түзетулер мен толықтырулар құпталады.
 
-Тегін таратылады, жүктеп алуға болады [github](https://github.com/19th19th/Kazakh-Language-Pack-for-OpenCart-3) немесе сайттан [liveopencart.ru](https://liveopencart.ru/)
+Тегін таратылады, [github](https://github.com/19th19th/Kazakh-Language-Pack-for-OpenCart-3) сайтынан немесе [liveopencart.ru](https://liveopencart.ru/) сайтынан жүктеуге болады 
